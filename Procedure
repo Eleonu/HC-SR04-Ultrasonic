@@ -1,0 +1,13 @@
+The Sensor has 4 pins
+
+(1) Power
+(2) Ground
+(3) Trigger
+(4) Echo
+
+ STEPS
+(1) connect the 4 pins as seen in the circuit diagram
+(2) Download attached Arduino code or write new code following the code given
+(3) Connect Arduino Board to Computer and select the board on the top of the arduino IDE
+(4) Upload code 
+(5) click on serial monitor to view output
